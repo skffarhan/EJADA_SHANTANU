@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="547.956" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="SaucesMobileDemo TestCase" name="TC_001_LoginDemo_Positive" time="361.159">
+<system-out><![CDATA[
+Given Load "Sauce" TestData in Specific Excel Sheet"SauceDemo-Mobile".......passed
+Then Fill "USERNAME" and "PASSWORD".........................................passed
+And click on "LOGIN" button in Sauce Mobile Login...........................passed
+And check weather the user logged in successfully...........................passed
+]]></system-out>
+</testcase>
+<testcase classname="SaucesMobileDemo TestCase" name="TC_002_LoginDemo_Negative" time="186.571">
+<system-out><![CDATA[
+Given Load "Sauce" TestData in Specific Excel Sheet"SauceDemo-Mobile".......passed
+Then Fill "USERNAME" and "PASSWORD".........................................passed
+And click on "LOGIN" button in Sauce Mobile Login...........................passed
+And check weather the user logged in successfully...........................passed
+]]></system-out>
+</testcase>
+</testsuite>

@@ -1,0 +1,494 @@
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Temp\AppData\Local\Temp\testng-eclipse-1681351920\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+Step Description--> TC_001_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_001_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_001_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_001_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_001_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_001_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_001_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_001_SauceDemo-->Click on Cart button. 
+Step Description--> TC_001_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Fleece Jacket || Actual Result : Sauce Labs Fleece Jacket
+Step Description--> TC_001_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Backpack || Actual Result : Sauce Labs Fleece Jacket
+Step Description--> TC_001_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_001_SauceDemo-->Enter First Name || Input Value : QGAXSOCT 
+Step Description--> TC_001_SauceDemo-->Enter First Name || Input Value : ROGGRBAY 
+Step Description--> TC_001_SauceDemo-->Enter First Name || Input Value : 519839
+Step Description--> TC_001_SauceDemo-->Click on Cart button. 
+Step Description--> TC_001_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_001_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_001_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_001_SauceDemo-->Click on Finish button. 
+Step Description--> TC_001_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_001_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+Step Description--> TC_002_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_002_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_002_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_002_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_002_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_002_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_002_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_002_SauceDemo-->Click on Cart button. 
+Step Description--> TC_002_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Onesie || Actual Result : Sauce Labs Onesie
+Step Description--> TC_002_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Bike Light || Actual Result : Sauce Labs Onesie
+Step Description--> TC_002_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_002_SauceDemo-->Enter First Name || Input Value : DQMICOZU 
+Step Description--> TC_002_SauceDemo-->Enter First Name || Input Value : JFNPGJPK 
+Step Description--> TC_002_SauceDemo-->Enter First Name || Input Value : 981267
+Step Description--> TC_002_SauceDemo-->Click on Cart button. 
+Step Description--> TC_002_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_002_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_002_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_002_SauceDemo-->Click on Finish button. 
+Step Description--> TC_002_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_002_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+Step Description--> TC_003_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_003_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_003_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_003_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_003_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_003_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_003_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_003_SauceDemo-->Click on Cart button. 
+Step Description--> TC_003_SauceDemo-->Values are Matching || Expected Result : Test.allTheThings() T-Shirt (Red) || Actual Result : Test.allTheThings() T-Shirt (Red)
+Step Description--> TC_003_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Onesie || Actual Result : Test.allTheThings() T-Shirt (Red)
+Step Description--> TC_003_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_003_SauceDemo-->Enter First Name || Input Value : AXIWWNHV 
+Step Description--> TC_003_SauceDemo-->Enter First Name || Input Value : COKIHGVH 
+Step Description--> TC_003_SauceDemo-->Enter First Name || Input Value : 393832
+Step Description--> TC_003_SauceDemo-->Click on Cart button. 
+Step Description--> TC_003_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_003_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_003_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_003_SauceDemo-->Click on Finish button. 
+Step Description--> TC_003_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_003_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+Step Description--> TC_004_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_004_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_004_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_004_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_004_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_004_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_004_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_004_SauceDemo-->Click on Cart button. 
+Step Description--> TC_004_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Backpack || Actual Result : Sauce Labs Backpack
+Step Description--> TC_004_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Bike Light || Actual Result : Sauce Labs Backpack
+Step Description--> TC_004_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_004_SauceDemo-->Enter First Name || Input Value : WMIONNUO 
+Step Description--> TC_004_SauceDemo-->Enter First Name || Input Value : PKFNQVZK 
+Step Description--> TC_004_SauceDemo-->Enter First Name || Input Value : 611481
+Step Description--> TC_004_SauceDemo-->Click on Cart button. 
+Step Description--> TC_004_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_004_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_004_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_004_SauceDemo-->Click on Finish button. 
+Step Description--> TC_004_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_004_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@b0e6d4e: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@419ece7a: 52 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@175745fc: 266 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@2c1a0f82: 0 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@55bafbc1: 6 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@722d3ddb: 65 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@258ac1e6: 8 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Temp\AppData\Local\Temp\testng-eclipse--369328546\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+Step Description--> TC_004_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_002_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_003_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_001_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_004_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_003_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_001_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_002_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_002_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_003_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_004_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_001_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_003_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_002_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_001_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_004_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_003_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_002_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_001_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_004_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_004_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_003_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_001_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_002_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_004_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_003_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_001_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_002_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_004_SauceDemo-->Click on Cart button. 
+Step Description--> TC_003_SauceDemo-->Click on Cart button. 
+Step Description--> TC_001_SauceDemo-->Click on Cart button. 
+Step Description--> TC_002_SauceDemo-->Click on Cart button. 
+Step Description--> TC_004_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Backpack || Actual Result : Sauce Labs Backpack
+Step Description--> TC_003_SauceDemo-->Values are Matching || Expected Result : Test.allTheThings() T-Shirt (Red) || Actual Result : Test.allTheThings() T-Shirt (Red)
+Step Description--> TC_002_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Onesie || Actual Result : Sauce Labs Onesie
+Step Description--> TC_001_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Fleece Jacket || Actual Result : Sauce Labs Fleece Jacket
+Step Description--> TC_004_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Bike Light || Actual Result : Sauce Labs Backpack
+Step Description--> TC_003_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Onesie || Actual Result : Test.allTheThings() T-Shirt (Red)
+Step Description--> TC_002_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Bike Light || Actual Result : Sauce Labs Onesie
+Step Description--> TC_001_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Backpack || Actual Result : Sauce Labs Fleece Jacket
+Step Description--> TC_004_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_003_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_001_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_002_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_004_SauceDemo-->Enter First Name || Input Value : BGTIUBUO 
+Step Description--> TC_004_SauceDemo-->Enter First Name || Input Value : DEOSTTHQ 
+Step Description--> TC_004_SauceDemo-->Enter First Name || Input Value : 633777
+Step Description--> TC_003_SauceDemo-->Enter First Name || Input Value : AYMKYMKW 
+Step Description--> TC_003_SauceDemo-->Enter First Name || Input Value : TBJHARXS 
+Step Description--> TC_003_SauceDemo-->Enter First Name || Input Value : 609936
+Step Description--> TC_002_SauceDemo-->Enter First Name || Input Value : SQXCWPZA 
+Step Description--> TC_001_SauceDemo-->Enter First Name || Input Value : MTITTEWA 
+Step Description--> TC_002_SauceDemo-->Enter First Name || Input Value : VEASVUPH 
+Step Description--> TC_001_SauceDemo-->Enter First Name || Input Value : GEVJDAWM 
+Step Description--> TC_001_SauceDemo-->Enter First Name || Input Value : 859456
+Step Description--> TC_002_SauceDemo-->Enter First Name || Input Value : 945087
+Step Description--> TC_004_SauceDemo-->Click on Cart button. 
+Step Description--> TC_003_SauceDemo-->Click on Cart button. 
+Step Description--> TC_001_SauceDemo-->Click on Cart button. 
+Step Description--> TC_002_SauceDemo-->Click on Cart button. 
+Step Description--> TC_004_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_003_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_001_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_002_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_004_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_004_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_003_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_003_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_001_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_001_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_002_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_002_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_004_SauceDemo-->Click on Finish button. 
+Step Description--> TC_003_SauceDemo-->Click on Finish button. 
+Step Description--> TC_001_SauceDemo-->Click on Finish button. 
+Step Description--> TC_002_SauceDemo-->Click on Finish button. 
+Step Description--> TC_004_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_003_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_001_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_002_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_004_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+Step Description--> TC_003_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+Step Description--> TC_001_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+Step Description--> TC_002_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@14b7786: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@54cf7c6a: 49 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@29a1505c: 111 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@24db6ce: 1 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@44b194fe: 5 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@7d04529c: 5 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@720bf653: 5 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Temp\AppData\Local\Temp\testng-eclipse-588801840\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+Step Description--> TC_002_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_003_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_001_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_004_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_004_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_003_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_002_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_001_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_004_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_002_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_003_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_001_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_003_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_004_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_002_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_001_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_004_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_001_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_002_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_003_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_004_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_003_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_002_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_001_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_004_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_003_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_002_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_001_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_002_SauceDemo-->Click on Cart button. 
+Step Description--> TC_003_SauceDemo-->Click on Cart button. 
+Step Description--> TC_004_SauceDemo-->Click on Cart button. 
+Step Description--> TC_001_SauceDemo-->Click on Cart button. 
+Step Description--> TC_004_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Backpack || Actual Result : Sauce Labs Backpack
+Step Description--> TC_003_SauceDemo-->Values are Matching || Expected Result : Test.allTheThings() T-Shirt (Red) || Actual Result : Test.allTheThings() T-Shirt (Red)
+Step Description--> TC_001_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Fleece Jacket || Actual Result : Sauce Labs Fleece Jacket
+Step Description--> TC_002_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Onesie || Actual Result : Sauce Labs Onesie
+Step Description--> TC_004_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Bike Light || Actual Result : Sauce Labs Backpack
+Step Description--> TC_003_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Onesie || Actual Result : Test.allTheThings() T-Shirt (Red)
+Step Description--> TC_001_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Backpack || Actual Result : Sauce Labs Fleece Jacket
+Step Description--> TC_002_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Bike Light || Actual Result : Sauce Labs Onesie
+Step Description--> TC_004_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_003_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_002_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_001_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_004_SauceDemo-->Enter First Name || Input Value : BNRVVIDY 
+Step Description--> TC_002_SauceDemo-->Enter First Name || Input Value : BMBUPYNM 
+Step Description--> TC_003_SauceDemo-->Enter First Name || Input Value : AULOLHDJ 
+Step Description--> TC_003_SauceDemo-->Enter First Name || Input Value : YYLDJVHY 
+Step Description--> TC_003_SauceDemo-->Enter First Name || Input Value : 101410
+Step Description--> TC_001_SauceDemo-->Enter First Name || Input Value : XMJLEXLY 
+Step Description--> TC_002_SauceDemo-->Enter First Name || Input Value : XMQVOXLJ 
+Step Description--> TC_004_SauceDemo-->Enter First Name || Input Value : ADSZOUEC 
+Step Description--> TC_004_SauceDemo-->Enter First Name || Input Value : 063554
+Step Description--> TC_002_SauceDemo-->Enter First Name || Input Value : 016001
+Step Description--> TC_001_SauceDemo-->Enter First Name || Input Value : QIGNGHCW 
+Step Description--> TC_001_SauceDemo-->Enter First Name || Input Value : 728516
+Step Description--> TC_002_SauceDemo-->Click on Cart button. 
+Step Description--> TC_003_SauceDemo-->Click on Cart button. 
+Step Description--> TC_001_SauceDemo-->Click on Cart button. 
+Step Description--> TC_004_SauceDemo-->Click on Cart button. 
+Step Description--> TC_004_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_001_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_003_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_002_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_001_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_001_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_004_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_004_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_003_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_003_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_002_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_002_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_004_SauceDemo-->Click on Finish button. 
+Step Description--> TC_003_SauceDemo-->Click on Finish button. 
+Step Description--> TC_001_SauceDemo-->Click on Finish button. 
+Step Description--> TC_002_SauceDemo-->Click on Finish button. 
+Step Description--> TC_004_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_003_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_001_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_002_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_004_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+Step Description--> TC_003_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+Step Description--> TC_001_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+Step Description--> TC_002_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@3f702946: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@10823d72: 40 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@2e179f3e: 125 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@16e7b402: 0 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@4d3ca6c7: 7 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@2dd2e270: 5 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@339a3670: 3 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Temp\AppData\Local\Temp\testng-eclipse--487613379\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : The Russian || Actual Result : The Russian
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : fiction || Actual Result : fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : Just as I Am || Actual Result : Just as I Am
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : non-fiction || Actual Result : non-fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : The Vanishing Half || Actual Result : The Vanishing Half
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : fiction || Actual Result : fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : The Midnight Library || Actual Result : The Midnight Library
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : fiction || Actual Result : fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : Untamed || Actual Result : Untamed
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : non-fiction || Actual Result : non-fiction
+Step Description--> TC_002_POST_API_With Token-->Verify the response value in OrderApi || Expected Result : No order with id :. || Actual Result : No order with id :.
+onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.buffer.WrappedByteBuf.writeBytes(WrappedByteBuf.java:821)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Step Description--> TC_002_POST_API_With Token-->Verify the response value in OrderApi || Expected Result : No order with id :. || Actual Result : No order with id :.
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@6b8280e6: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@56380231: 47 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@45c2e0a6: 131 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@119c745c: 1 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@1debc91c: 8 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@3e47a03: 7 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@278667fd: 4 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Temp\AppData\Local\Temp\testng-eclipse--121568343\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+Step Description--> TC_001_LoginDemo_Positive-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_001_LoginDemo_Positive-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_001_LoginDemo_Positive-->Click Login Button to get logged in Mobile Application.
+Step Description--> TC_001_LoginDemo_Positive-->Successfully login
+Step Description--> TC_002_LoginDemo_Negative-->Enter Username in Sauce Login Page || Input Value : standard_users
+Step Description--> TC_002_LoginDemo_Negative-->Enter Password in Sauce Login Page || Input Value : secret_sauced
+Step Description--> TC_002_LoginDemo_Negative-->Click Login Button to get logged in Mobile Application.
+Step Description--> TC_002_LoginDemo_Negative-->Invalid credentials
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@5b6f3d0b: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@3fa57aa8: 78 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@7ae6927: 243 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@7d0df326: 1 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@1cca2e9d: 5 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@61e0f9b9: 103 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@23dc70c1: 4 ms

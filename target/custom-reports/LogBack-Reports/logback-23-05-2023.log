@@ -1,0 +1,511 @@
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Farhan.Shaikh\AppData\Local\Temp\testng-eclipse--542733703\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@35c4e864: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2b4b96a4: 76 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@d16be4f: 138 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@322ba549: 9 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@27abb6ca: 8 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@78422efb: 7 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@50eb4a2c: 7 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Farhan.Shaikh\AppData\Local\Temp\testng-eclipse-1187728932\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@35c4e864: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2b4b96a4: 95 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@d16be4f: 115 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@322ba549: 11 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@27abb6ca: 10 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@78422efb: 8 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@50eb4a2c: 6 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Farhan.Shaikh\AppData\Local\Temp\testng-eclipse-2122884942\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+Step Description--> TC_001_LoginDemo_Positive-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_001_LoginDemo_Positive-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_001_LoginDemo_Positive-->Click Login Button to get logged in Mobile Application.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Farhan.Shaikh\AppData\Local\Temp\testng-eclipse-1597006527\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Farhan.Shaikh\AppData\Local\Temp\testng-eclipse-302967926\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+Step Description--> TC_001_LoginDemo_Positive-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_001_LoginDemo_Positive-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_001_LoginDemo_Positive-->Click Login Button to get logged in Mobile Application.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Temp\AppData\Local\Temp\testng-eclipse--1805477425\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+Step Description--> TC_001_LoginDemo_Positive-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_001_LoginDemo_Positive-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_001_LoginDemo_Positive-->Click Login Button to get logged in Mobile Application.
+Step Description--> TC_001_LoginDemo_Positive-->Successfully login
+Step Description--> TC_002_LoginDemo_Negative-->Enter Username in Sauce Login Page || Input Value : standard_users
+Step Description--> TC_002_LoginDemo_Negative-->Enter Password in Sauce Login Page || Input Value : secret_sauced
+Step Description--> TC_002_LoginDemo_Negative-->Click Login Button to get logged in Mobile Application.
+Step Description--> TC_002_LoginDemo_Negative-->Invalid credentials
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@5b6f3d0b: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@3fa57aa8: 169 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@7ae6927: 108 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@7d0df326: 1 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@1cca2e9d: 6 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@61e0f9b9: 5 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@23dc70c1: 5 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Temp\AppData\Local\Temp\testng-eclipse-704848804\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+Step Description--> TC_001_LoginDemo_Positive-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_001_LoginDemo_Positive-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_001_LoginDemo_Positive-->Click Login Button to get logged in Mobile Application.
+Step Description--> TC_001_LoginDemo_Positive-->Successfully login
+Step Description--> TC_002_LoginDemo_Negative-->Enter Username in Sauce Login Page || Input Value : standard_users
+Step Description--> TC_002_LoginDemo_Negative-->Enter Password in Sauce Login Page || Input Value : secret_sauced
+Step Description--> TC_002_LoginDemo_Negative-->Click Login Button to get logged in Mobile Application.
+Step Description--> TC_002_LoginDemo_Negative-->Invalid credentials
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@6d87253e: 1 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@68a94e58: 46 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@2a0ce342: 105 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@22846a1d: 0 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@3cae4518: 5 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@550f522b: 5 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@314c6f89: 3 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Temp\AppData\Local\Temp\testng-eclipse--87226661\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@767f6ee7: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2274160: 45 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@15d42ccb: 96 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@4ba02375: 10 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@6d60899e: 7 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@6056232d: 6 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@58b91d57: 5 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Temp\AppData\Local\Temp\testng-eclipse--1285939481\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@49d831c2: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7c601d50: 40 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@45cd7bc5: 193 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@6504a875: 1 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@5922d3e9: 23 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@5edc70ed: 25 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6de6faa6: 13 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Temp\AppData\Local\Temp\testng-eclipse-518948258\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+Step Description--> TC_001_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_001_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_001_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_001_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_001_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_001_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_001_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_001_SauceDemo-->Click on Cart button. 
+Step Description--> TC_001_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Fleece Jacket || Actual Result : Sauce Labs Fleece Jacket
+Step Description--> TC_001_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Backpack || Actual Result : Sauce Labs Fleece Jacket
+Step Description--> TC_001_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_001_SauceDemo-->Enter First Name || Input Value : XIUHBLXX 
+Step Description--> TC_001_SauceDemo-->Enter First Name || Input Value : ZKMQJGIS 
+Step Description--> TC_001_SauceDemo-->Enter First Name || Input Value : 278412
+Step Description--> TC_001_SauceDemo-->Click on Cart button. 
+Step Description--> TC_001_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_001_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_001_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_001_SauceDemo-->Click on Finish button. 
+Step Description--> TC_001_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_001_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Step Description--> TC_002_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_002_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_002_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_002_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_002_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_002_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_002_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_002_SauceDemo-->Click on Cart button. 
+Step Description--> TC_002_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Onesie || Actual Result : Sauce Labs Onesie
+Step Description--> TC_002_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Bike Light || Actual Result : Sauce Labs Onesie
+Step Description--> TC_002_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_002_SauceDemo-->Enter First Name || Input Value : LBQRNZVH 
+Step Description--> TC_002_SauceDemo-->Enter First Name || Input Value : SQGSMHPV 
+Step Description--> TC_002_SauceDemo-->Enter First Name || Input Value : 771664
+Step Description--> TC_002_SauceDemo-->Click on Cart button. 
+Step Description--> TC_002_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_002_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_002_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_002_SauceDemo-->Click on Finish button. 
+Step Description--> TC_002_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_002_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+Step Description--> TC_003_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_003_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_003_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_003_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_003_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_003_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_003_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_003_SauceDemo-->Click on Cart button. 
+Step Description--> TC_003_SauceDemo-->Values are Matching || Expected Result : Test.allTheThings() T-Shirt (Red) || Actual Result : Test.allTheThings() T-Shirt (Red)
+Step Description--> TC_003_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Onesie || Actual Result : Test.allTheThings() T-Shirt (Red)
+Step Description--> TC_003_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_003_SauceDemo-->Enter First Name || Input Value : OUUAQFRZ 
+Step Description--> TC_003_SauceDemo-->Enter First Name || Input Value : OFJTUQHA 
+Step Description--> TC_003_SauceDemo-->Enter First Name || Input Value : 774358
+Step Description--> TC_003_SauceDemo-->Click on Cart button. 
+Step Description--> TC_003_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_003_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_003_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_003_SauceDemo-->Click on Finish button. 
+Step Description--> TC_003_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_003_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+Step Description--> TC_004_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_004_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_004_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_004_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_004_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_004_SauceDemo-->Click Add to cart for Product1. 
+Step Description--> TC_004_SauceDemo-->Click Add to cart for Product2.
+Step Description--> TC_004_SauceDemo-->Click on Cart button. 
+Step Description--> TC_004_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Backpack || Actual Result : Sauce Labs Backpack
+Step Description--> TC_004_SauceDemo-->Values are Matching || Expected Result : Sauce Labs Bike Light || Actual Result : Sauce Labs Backpack
+Step Description--> TC_004_SauceDemo-->Click on Checkout button. 
+Step Description--> TC_004_SauceDemo-->Enter First Name || Input Value : DUBCISIW 
+Step Description--> TC_004_SauceDemo-->Enter First Name || Input Value : HWUKLOGA 
+Step Description--> TC_004_SauceDemo-->Enter First Name || Input Value : 310059
+Step Description--> TC_004_SauceDemo-->Click on Cart button. 
+Step Description--> TC_004_SauceDemo-->Values for Title page Matching || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_004_SauceDemo-->Total Value before tax || Expected Result : Checkout: Overview || Actual Result : Checkout: Overview
+Step Description--> TC_004_SauceDemo-->Validate current URL || Expected Result : https://www.saucedemo.com/checkout-step-two.html || Actual Result : https://www.saucedemo.com/checkout-step-two.html
+Step Description--> TC_004_SauceDemo-->Click on Finish button. 
+Step Description--> TC_004_SauceDemo-->Validate message as Thank you for your order || Expected Result : Thank you for your order! || Actual Result : Thank you for your order!
+Step Description--> TC_004_SauceDemo-->Validate message as Your order has been dispatched, and will arrive just as fast as the pony can get there! || Expected Result : Your order has been dispatched, and will arrive just as fast as the pony can get there! || Actual Result : Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@3857c5d5: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@25af1dbf: 41 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@3ce4eb42: 101 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@3a388769: 0 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@4257163f: 5 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@6cb2b947: 5 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@85fd4b: 4 ms

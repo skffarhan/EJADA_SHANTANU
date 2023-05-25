@@ -1,0 +1,53 @@
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Temp\AppData\Local\Temp\testng-eclipse-1995204155\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : The Russian || Actual Result : The Russian
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : fiction || Actual Result : fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : Just as I Am || Actual Result : Just as I Am
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : non-fiction || Actual Result : non-fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : The Vanishing Half || Actual Result : The Vanishing Half
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : fiction || Actual Result : fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : The Midnight Library || Actual Result : The Midnight Library
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : fiction || Actual Result : fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : Untamed || Actual Result : Untamed
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : non-fiction || Actual Result : non-fiction
+Step Description--> TC_002_POST_API_With Token-->Verify the response value in OrderApi || Expected Result : No order with id :. || Actual Result : No order with id :.
+Step Description--> TC_002_POST_API_With Token-->Verify the response value in OrderApi || Expected Result : No order with id :. || Actual Result : No order with id :.
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@35217e0: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@59509393: 177 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@4718d320: 398 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@46aea9f7: 1 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@1002f859: 10 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@4a7c8cb7: 27 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4d145177: 14 ms
